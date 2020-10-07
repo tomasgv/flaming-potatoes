@@ -1,1 +1,7 @@
 .vscode/
+.DS_Store
+
+# Private files
+data/Notas-2020-2.xlsx
+output.xlsx
+Prediccion_Naive_Bayes_private.ipynb
